@@ -55,7 +55,7 @@ This method will fit when there are a cryptocurrency wallet app and the app can 
 The disadvantage is that buyer and seller must trust administrator to an extent.
 If platform server go down, the transaction will not be created.
 But platform administrator cannot access funds in multisignature address directly, so administrator have no incentive to stop service on purpose.
-So, I conclude that this method is far safer than fully-centralized escrow service like almost all of cryptocurrency exchanges.
+So, I conclude that this method is far safer than fully-centralized escrow services like almost all of cryptocurrency exchanges.
 
 ## Implementation
 
