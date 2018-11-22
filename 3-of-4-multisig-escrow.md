@@ -5,6 +5,9 @@
   Created: 2018-11-17
 ```
 
+
+[日本語版](3-of-4-multisig-escrow-ja.md)
+
 ## Abstract
 
 This extends 2-of-3 multisignature escrow so that both users and platform administrators can control funds in a more decentralized and appliable way.
@@ -69,6 +72,7 @@ In development
 
 ## Documentation History
 
+* 2018-11-22 Created Japanese version.
 * 2018-11-22 Created repository and moved from gists
 * 2018-11-20 Made public and moved to my gists.
 * 2018-11-17 Initial
