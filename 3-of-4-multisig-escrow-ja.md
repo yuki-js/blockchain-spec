@@ -1,8 +1,8 @@
 ```
   層: アプリケーション
   タイトル: 3-of4　マルチシグネチャー・エスクロー
-  Author: Yuki Aoki <ayukiyhs at gmail.com>
-  Created: 2018-11-17
+  作者: 青木 勇樹 <ayukiyhs at gmail.com>
+  作成日: 2018-11-17
 ```
 
 ## 概要
@@ -67,6 +67,7 @@
 
 ## 履歴
 
+* 2018-11-22 Created Japanese version.
 * 2018-11-22 Created repository and moved from gists
 * 2018-11-20 Made public and moved to my gists.
 * 2018-11-17 Initial
