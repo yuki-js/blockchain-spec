@@ -48,7 +48,7 @@ Each has own private key.
 If the seller doesn't send merchandise, or buyer and seller have trouble signing the transaction: for instance, due to the lack of blockchain skills, platform administrator can intervene and rollback with platform administrator's private key.
 
 Even if the well-trained user were to modify the transaction and try to deny paying the usage fee, it is no use trying it, because it has already been signed by platform server.
-By this mechanism, the platform forces users to pay a charge. That makes a difference between 2-of-3 multisig escrow.
+By this mechanism, the platform forces users to pay a charge. That makes a big difference between 2-of-3 multisig escrow.
 
 This method will fit when there are a cryptocurrency wallet app and the app can sign separately with Deep Link API and so on.
 
