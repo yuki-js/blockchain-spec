@@ -7,20 +7,20 @@
 
 ## Abstract
 
-This extends 2-of-3 multisignature escrow so that administrators can control funds in a more decentralized way.
+This extends 2-of-3 multisignature escrow so that both users and platform administrators can control funds in a more decentralized and appliable way.
 
 ## Motivation
 
 2-of-3 multisignature escrow is a safe and usable solution when buying something with cryptocurrency.
-But when it comes to using in practice, administrators of the platforms may want to collect a charge for use or apply additional rules.
+But when it comes to using in practice, platform administrators of the platforms may want to collect a charge for use or apply additional rules.
 
-This method extends 2-of-3 multisig escrow. It provides not only users but also administrators to control their funds.
+This method extends 2-of-3 multisig escrow. It provides not only users but also administrators with the way to control their funds.
 By this, for example, administrators can make platform users pay fees without depriving users of their fund ownership. 
 Besides, administrators can enforce some rules.
 
 ## Definitions
 
-* Seller - He opens on the escrow platform
+* Seller - He opens an online store on the escrow platform
 * Buyer - He wants to buy some goods from the seller
 * Platform Administrator - A person or organization running the escrow platform.
 * Platform server - An online computer which is run by platform administrator and manages users' order.
@@ -38,10 +38,10 @@ Each has own private key.
   - Platform Administrator
 4. Buyer deposits money, including the price and the blockchain fee and platform usage fee, into the multisignature address.
 5. Seller recognizes the deposit so he can send buyer merchandise.
-6. Buyer notifies the platform that he received merchandise.
+6. Buyer notifies the platform server that he received merchandise.
 7. Platform server creates and signs a transaction.
   * Signed with platform server's private key
-  * Outputs are the seller's address, a platform fee pool.
+  * Outputs(vout) are the seller's address, a platform fee pool.
 8. Buyer and seller sign the transaction.
 9. Broadcast the transaction.
 
