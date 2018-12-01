@@ -23,8 +23,8 @@ Besides, administrators can enforce some rules.
 
 ## Definitions
 
-* Seller - He opens an online store on the escrow platform
-* Buyer - He wants to buy some goods from the seller
+* Seller - A person who opens an online store on the escrow platform
+* Buyer - A person who wants to buy some goods from the seller
 * Platform Administrator - A person or organization running the escrow platform.
 * Platform server - An online computer which is run by platform administrator and manages users' order.
 
