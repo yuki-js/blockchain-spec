@@ -3,6 +3,7 @@
   Title: 3-of-4 Multisignature Escrow
   Author: Yuki Aoki <ayukiyhs at gmail.com>
   Created: 2018-11-17
+  Type: Informational
 ```
 
 
