@@ -66,7 +66,7 @@ In development
 
 ## See also
 
-[Add the draft of Deep Link Payment Protocol spec](https://github.com/bitcoincashorg/bitcoincash.org/pull/145)
+[Add the draft of Deep Link Payment Protocol spec(the proposed way to connect between app and escrow service)](https://github.com/bitcoincashorg/bitcoincash.org/pull/145)
 
 ## Acknowledgement
 
